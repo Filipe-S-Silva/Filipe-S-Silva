@@ -1,17 +1,108 @@
-## Olá! Me chamo Filipe Santos😁
- <div>
+# 👋 Filipe Santos | Full Stack Developer 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;React+%7C+Node+%7C+Python;Building+Scalable+Solutions;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+## 🧠 About Me
+
+💻 Desenvolvedor Full Stack apaixonado por tecnologia  
+📚 Sempre estudando e evoluindo minhas habilidades  
+⚙️ Foco em desenvolvimento escalável e boas práticas  
+🚀 Construindo projetos modernos com stack atualizada  
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
   <a href="https://github.com/Filipe-S-Silva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Filipe-S-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-S-Silva&layout=compact&langs_count=16&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe-S-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-S-Silva&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">  
-  <img align="center" alt="NODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">  
-  <img align="center" alt="TYPE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">  
- 
-</div>  
+---
+
+# 🚀 Tech Stack 2026
+
+## 💻 Languages
+<p align="left">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</p>
+
+---
+
+## 🌐 Front-End
+<p align="left">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+</p>
+
+---
+
+## ⚙️ Back-End & Database
+<p align="left">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</p>
+
+---
+
+## 🛠 Tools & Environment
+<p align="left">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🔥 React avançado e arquitetura de componentes
+- 🧩 APIs REST com Node.js e Express
+- 🐍 Automação e scripts com Python
+- 🏗️ Clean Code & Arquitetura de Software
+- ⚡ Performance e otimização
+
+---
+
+# 📌 Featured Skills
+
+✔️ Desenvolvimento de APIs REST  
+✔️ Integração Front-End + Back-End  
+✔️ Componentização moderna com React  
+✔️ Estilização eficiente com TailwindCSS  
+✔️ Estruturação de banco de dados MySQL  
+
+---
+
+# 🌎 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# ⚡ Developer Mindset
+
+> “Consistency beats motivation. Discipline builds results.”
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Filipe-S-Silva&theme=tokyonight&row=1&column=6"/>
+</p>
