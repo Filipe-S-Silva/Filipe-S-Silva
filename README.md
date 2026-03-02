@@ -34,7 +34,7 @@
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 </p>
 
 ---
@@ -92,7 +92,3 @@
 > “Consistency beats motivation. Discipline builds results.”
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Filipe-S-Silva&theme=tokyonight&row=1&column=6"/>
-</p>
